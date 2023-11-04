@@ -1,6 +1,6 @@
-package com.github.lkqm.spring.api.version.controller;
+package com.bytewave.apiversionspringbootstarter.version.controller;
 
-import com.github.lkqm.spring.api.version.ApiVersion;
+import com.bytewave.apiversionspringbootstarter.version.ApiVersion;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

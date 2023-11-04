@@ -1,4 +1,4 @@
-package com.github.lkqm.spring.api.version;
+package com.bytewave.apiversionspringbootstarter.version;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

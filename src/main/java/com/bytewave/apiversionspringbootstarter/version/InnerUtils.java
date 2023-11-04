@@ -1,4 +1,4 @@
-package com.github.lkqm.spring.api.version;
+package com.bytewave.apiversionspringbootstarter.version;
 
 import java.util.regex.Pattern;
 

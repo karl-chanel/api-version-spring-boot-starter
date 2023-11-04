@@ -1,4 +1,4 @@
-package com.github.lkqm.spring.api.version;
+package com.bytewave.apiversionspringbootstarter.version;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

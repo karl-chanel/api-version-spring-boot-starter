@@ -1,6 +1,7 @@
-package com.github.lkqm.spring.api.version;
+package com.bytewave.apiversionspringbootstarter.version;
 
 
+import com.bytewave.apiversionspringbootstarter.version.InnerUtils;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

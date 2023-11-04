@@ -1,6 +1,6 @@
-package com.github.lkqm.spring.api.version.integration;
+package com.bytewave.apiversionspringbootstarter.version.integration;
 
-import com.github.lkqm.spring.api.version.Application;
+import com.bytewave.apiversionspringbootstarter.version.Application;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;

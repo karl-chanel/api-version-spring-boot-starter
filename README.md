@@ -1,10 +1,7 @@
-# spring-api-versioning
-![Maven Central](https://img.shields.io/maven-central/v/com.github.lkqm/spring-api-versioning)
-![Travis (.org) branch](https://img.shields.io/travis/lkqm/spring-api-versioning/master)
-
+原repo https://github.com/lkqm/spring-api-versioning/blob/main/README.md?plain=1
 Simple development of multi-version api based on spring-mvc via @ApiVersion annotation, support for uri, header, param.
 
-Supports: JDK 1.8, spring-boot 2.x
+Supports: JDK 17+, spring-boot 3.x
 
 ## Features
 - URI:  /v1/user/list, /v2/user/list

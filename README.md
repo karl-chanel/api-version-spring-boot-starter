@@ -1,4 +1,4 @@
-### 原repo https://github.com/lkqm/spring-api-versioning/blob/main/README.md?plain=1 不支持springboot3,此repo为修改依赖(jarkata ee)适配spring boot3版本，老版本请用原repo
+### [repo](https://github.com/lkqm/spring-api-versioning/blob/main/README.md?plain=1) 不支持springboot3,此repo为修改依赖(jarkata ee)适配spring boot3版本，老版本请用原repo
 
 
 

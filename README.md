@@ -1,4 +1,7 @@
-原repo https://github.com/lkqm/spring-api-versioning/blob/main/README.md?plain=1
+### 原repo https://github.com/lkqm/spring-api-versioning/blob/main/README.md?plain=1 不支持springboot3,此repo为修改依赖(jarkata ee)适配spring boot3版本，老版本请用原repo
+
+
+
 Simple development of multi-version api based on spring-mvc via @ApiVersion annotation, support for uri, header, param.
 
 Supports: JDK 17+, spring-boot 3.x
@@ -13,11 +16,12 @@ Important: version number use precise matching with String equals method.
 ## Quick
 1. Add Dependency(Maven)
     ```
-   <dependency>
-       <groupId>com.github.lkqm</groupId>
-       <artifactId>spring-api-versioning</artifactId>
-       <version>${version}</version>
-   </dependency>
+     <dependency>
+        <groupId>io.github.karl-chanel</groupId>
+        <artifactId>api-version-spring-boot-starter</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+  
     ```
     
 2. @EnableApiVersioning with Application class
